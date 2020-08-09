@@ -3,7 +3,7 @@
 # Data collection
 ISIA Food-500 consists of `399,726` food items.Each item includes the food name,food images.There are totally `500` kinds of food dishes.
 
-<img width="1000" height="400" src="sample/ISIA500-example.png"/>
+<img width="600" height="600" src="sample/ISIA500-example.png"/>
 
 ## The dataset can also be downloaded from the following links:
 [[image.rar]](https://www.google.com/?hl=zh_tw)
